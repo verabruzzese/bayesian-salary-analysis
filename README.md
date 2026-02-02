@@ -7,7 +7,7 @@
 This project applies Bayesian statistics to analyze salary patterns for data scientists worldwide. The goal is to understand how experience, company size, remote work, and geographic location influence salaries.
 
 ## Methods
-- Exploratory Data Analysis (EDA) on raw and log-transformed salaries
+- Exploratory data analysis on raw and log-transformed salaries
 - Correlation and ANOVA analyses
 - Mixed-effects modeling treating company location as a random effect
 - Bayesian hierarchical modeling using **NIMBLE** in R
